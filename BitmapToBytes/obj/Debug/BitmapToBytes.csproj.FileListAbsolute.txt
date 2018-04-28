@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\bin\Debug\BitmapToBytes.exe.config
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\bin\Debug\BitmapToBytes.exe
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\bin\Debug\BitmapToBytes.pdb
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.Form1.resources
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.Properties.Resources.resources
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.exe
+E:\Documents\Visual Studio Projects\BitmapToBytes\BitmapToBytes\obj\Debug\BitmapToBytes.pdb
